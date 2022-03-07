@@ -1,0 +1,44 @@
+body {
+    background: url("https://i.pinimg.com/originals/f3/2a/55/f32a55b9ba51f52f51271a33688055ae.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-size: large;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+div {
+    background-color: #D3DEDC;
+    width: 50%;
+    margin: auto;
+    padding: 10px 0;
+    text-align: center;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: auto;
+}
+
+table {
+    margin: auto;
+}
+
+button,
+input {
+    border-radius: 20px;
+}
+
+input {
+    width: 30%;
+    font-size: large;
+}
+
+#dice{
+    width: 9%;
+    margin-left: 25px;
+}
+
+button {
+    margin-left: -60px;
+    font-size: medium;
+}
